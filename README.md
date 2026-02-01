@@ -74,4 +74,27 @@ Key techniques used:
 ---
 
 ## 📁 Project Structure
-
+career_intelligence/
+│
+├── app.py
+├── core/
+│ ├── salary.py
+│ ├── demand.py
+│ └── matcher.py
+│
+├── nlp/
+│ └── embedder.py
+│
+├── roadmap/
+│ └── generator.py
+│
+├── data/
+│ └── jobs.csv
+│
+├── assets/
+│ └── style.css
+│
+├── models/
+│
+├── requirements.txt
+└── README.md
