@@ -1,0 +1,301 @@
+Role,Skills,Salary,Experience
+Product Manager,"['analytics', 'user research', 'jira', 'communication']",35.77,6
+Machine Learning Engineer,"['scikit-learn', 'pytorch', 'machine learning', 'python', 'aws', 'docker']",17.11,3
+Data Scientist,"['pandas', 'statistics', 'numpy', 'jupyter', 'visualization', 'sql']",16.18,2
+Backend Engineer,"['redis', 'python', 'aws', 'django', 'docker', 'sql']",14.78,4
+DevOps Engineer,"['kubernetes', 'aws', 'bash', 'ci/cd', 'docker', 'terraform']",27.54,8
+Product Manager,"['roadmap', 'agile', 'user research', 'analytics']",26.57,5
+Frontend Engineer,"['javascript', 'sql', 'git', 'css', 'redux', 'typescript']",12.28,4
+Frontend Engineer,"['javascript', 'html', 'redux', 'react', 'terraform', 'typescript']",12.7,1
+Data Scientist,"['pandas', 'statistics', 'python', 'numpy', 'visualization', 'sql']",20.96,8
+Product Manager,"['jira', 'communication', 'roadmap', 'agile', 'analytics']",16.43,2
+Backend Engineer,"['fastapi', 'redis', 'python', 'aws', 'django']",14.09,5
+Frontend Engineer,"['javascript', 'html', 'git', 'css', 'statistics', 'react', 'typescript']",20.55,6
+Backend Engineer,"['fastapi', 'redis', 'python', 'typescript', 'django', 'docker', 'sql']",28.37,7
+Full Stack Developer,"['git', 'python', 'aws', 'react', 'node.js', 'sql']",14.09,5
+Backend Engineer,"['fastapi', 'redis', 'python', 'aws', 'django', 'docker']",11.77,2
+Backend Engineer,"['fastapi', 'redis', 'pytorch', 'python', 'docker', 'sql']",18.64,1
+DevOps Engineer,"['linux', 'user research', 'kubernetes', 'aws', 'ci/cd', 'terraform']",31.12,6
+DevOps Engineer,"['aws', 'bash', 'ci/cd', 'docker', 'linux']",20.2,8
+Machine Learning Engineer,"['fastapi', 'pytorch', 'machine learning', 'python', 'aws', 'tensorflow']",18.93,6
+DevOps Engineer,"['linux', 'aws', 'bash', 'docker', 'terraform']",22.97,3
+Backend Engineer,"['fastapi', 'redis', 'python', 'docker', 'sql']",26.14,6
+Backend Engineer,"['fastapi', 'redis', 'python', 'aws', 'django', 'sql']",24.27,7
+Machine Learning Engineer,"['scikit-learn', 'pytorch', 'machine learning', 'python', 'aws', 'tensorflow']",15.5,1
+Full Stack Developer,"['git', 'mongo', 'aws', 'react', 'node.js']",31.78,6
+Product Manager,"['user research', 'jira', 'analytics', 'agile', 'roadmap']",33.29,2
+Frontend Engineer,"['javascript', 'redis', 'html', 'git', 'css', 'redux', 'react']",25.65,8
+Machine Learning Engineer,"['scikit-learn', 'pytorch', 'python', 'aws', 'tensorflow', 'docker']",37.9,8
+Full Stack Developer,"['git', 'css', 'mongo', 'python', 'aws', 'sql']",16.8,3
+Data Scientist,"['pandas', 'statistics', 'aws', 'numpy', 'jupyter', 'visualization', 'sql']",25.88,4
+DevOps Engineer,"['linux', 'kubernetes', 'python', 'aws', 'bash', 'docker', 'terraform']",36.01,8
+Product Manager,"['user research', 'jira', 'communication', 'roadmap', 'agile']",39.87,4
+DevOps Engineer,"['kubernetes', 'ci/cd', 'bash', 'docker', 'terraform']",36.69,8
+Full Stack Developer,"['jira', 'git', 'mongo', 'python', 'aws', 'node.js', 'sql']",22.8,2
+DevOps Engineer,"['kubernetes', 'aws', 'ci/cd', 'bash', 'docker', 'terraform']",17.34,5
+Machine Learning Engineer,"['scikit-learn', 'machine learning', 'python', 'aws', 'tensorflow']",20.38,2
+Data Scientist,"['pandas', 'statistics', 'python', 'numpy', 'django', 'jupyter', 'visualization']",33.67,7
+Machine Learning Engineer,"['scikit-learn', 'pytorch', 'machine learning', 'aws', 'tensorflow', 'docker']",15.66,4
+Full Stack Developer,"['git', 'mongo', 'python', 'aws', 'react', 'sql']",15.69,2
+DevOps Engineer,"['linux', 'kubernetes', 'aws', 'docker', 'terraform']",28.94,1
+Machine Learning Engineer,"['scikit-learn', 'pytorch', 'machine learning', 'tensorflow', 'docker']",16.0,3
+Frontend Engineer,"['javascript', 'html', 'git', 'redux', 'react', 'typescript']",23.19,8
+Data Scientist,"['pandas', 'statistics', 'python', 'numpy', 'jupyter', 'visualization']",32.87,7
+Machine Learning Engineer,"['scikit-learn', 'pytorch', 'machine learning', 'aws', 'docker', 'typescript']",26.87,1
+Full Stack Developer,"['git', 'mongo', 'python', 'aws', 'react', 'sql']",25.61,5
+Machine Learning Engineer,"['scikit-learn', 'pytorch', 'python', 'aws', 'tensorflow', 'agile']",35.03,6
+Frontend Engineer,"['javascript', 'git', 'css', 'react', 'typescript']",23.86,6
+Data Scientist,"['fastapi', 'pandas', 'statistics', 'python', 'numpy', 'jupyter', 'visualization']",16.59,5
+Machine Learning Engineer,"['scikit-learn', 'pytorch', 'machine learning', 'tensorflow', 'docker']",15.14,1
+Frontend Engineer,"['javascript', 'html', 'git', 'css', 'redux', 'sql']",18.5,5
+Machine Learning Engineer,"['pytorch', 'communication', 'machine learning', 'aws', 'tensorflow', 'docker']",27.96,1
+Full Stack Developer,"['mongo', 'python', 'aws', 'react', 'node.js', 'sql']",18.71,1
+Machine Learning Engineer,"['pytorch', 'machine learning', 'statistics', 'python', 'aws', 'tensorflow']",30.06,8
+DevOps Engineer,"['kubernetes', 'terraform', 'bash', 'ci/cd', 'docker', 'linux']",24.15,3
+Machine Learning Engineer,"['scikit-learn', 'machine learning', 'python', 'aws', 'tensorflow', 'docker']",21.73,4
+Data Scientist,"['pandas', 'python', 'numpy', 'visualization', 'sql']",18.92,3
+Full Stack Developer,"['mongo', 'python', 'aws', 'react', 'node.js', 'sql']",22.49,3
+Backend Engineer,"['fastapi', 'redis', 'python', 'django', 'sql']",21.44,7
+Backend Engineer,"['redis', 'aws', 'django', 'docker', 'sql']",24.3,4
+DevOps Engineer,"['kubernetes', 'aws', 'ci/cd', 'bash', 'terraform']",37.79,8
+Product Manager,"['analytics', 'agile', 'user research', 'communication']",31.48,3
+Data Scientist,"['pandas', 'git', 'statistics', 'python', 'jupyter', 'visualization']",21.1,3
+Full Stack Developer,"['python', 'mongo', 'aws', 'react', 'node.js', 'sql']",17.8,2
+Frontend Engineer,"['javascript', 'html', 'git', 'css', 'react', 'typescript']",27.07,8
+Machine Learning Engineer,"['scikit-learn', 'pytorch', 'python', 'aws', 'tensorflow']",15.69,4
+Backend Engineer,"['fastapi', 'redis', 'python', 'aws', 'django', 'docker']",27.98,7
+Full Stack Developer,"['git', 'python', 'aws', 'node.js', 'sql']",21.97,5
+Full Stack Developer,"['git', 'mongo', 'aws', 'react', 'django', 'node.js']",28.23,5
+DevOps Engineer,"['kubernetes', 'terraform', 'aws', 'bash', 'ci/cd', 'linux']",29.18,7
+Frontend Engineer,"['javascript', 'html', 'css', 'redux', 'typescript']",25.38,8
+Full Stack Developer,"['git', 'mongo', 'python', 'react', 'node.js', 'sql']",24.89,8
+Machine Learning Engineer,"['scikit-learn', 'pytorch', 'machine learning', 'python', 'aws']",20.01,8
+DevOps Engineer,"['kubernetes', 'machine learning', 'aws', 'ci/cd', 'bash', 'linux']",22.1,7
+Full Stack Developer,"['git', 'mongo', 'python', 'aws', 'react', 'sql']",23.61,7
+Frontend Engineer,"['javascript', 'html', 'git', 'css', 'redux', 'react']",11.43,4
+Frontend Engineer,"['javascript', 'git', 'css', 'redux', 'react', 'roadmap', 'typescript']",25.24,8
+DevOps Engineer,"['kubernetes', 'terraform', 'aws', 'ci/cd', 'docker', 'linux']",33.9,4
+DevOps Engineer,"['kubernetes', 'ci/cd', 'bash', 'docker', 'linux', 'typescript']",15.13,1
+DevOps Engineer,"['kubernetes', 'aws', 'ci/cd', 'bash', 'docker']",32.02,8
+Backend Engineer,"['fastapi', 'redis', 'aws', 'django', 'sql']",8.2,1
+Product Manager,"['jira', 'communication', 'roadmap', 'agile', 'analytics']",33.86,6
+Backend Engineer,"['fastapi', 'redis', 'python', 'aws', 'docker']",10.33,1
+Frontend Engineer,"['javascript', 'html', 'git', 'css', 'react', 'typescript']",12.06,3
+Data Scientist,"['pandas', 'statistics', 'python', 'jupyter', 'visualization', 'sql']",21.71,1
+Full Stack Developer,"['git', 'python', 'aws', 'react', 'node.js']",9.54,2
+DevOps Engineer,"['linux', 'kubernetes', 'ci/cd', 'docker', 'terraform']",15.74,2
+Backend Engineer,"['fastapi', 'redis', 'python', 'django', 'docker', 'sql']",32.46,8
+DevOps Engineer,"['kubernetes', 'linux', 'bash', 'docker']",22.21,6
+Product Manager,"['jira', 'communication', 'analytics', 'agile', 'roadmap']",27.49,5
+Full Stack Developer,"['git', 'mongo', 'python', 'aws', 'react', 'numpy', 'node.js']",22.55,4
+Full Stack Developer,"['git', 'mongo', 'python', 'aws', 'react', 'sql']",35.53,8
+DevOps Engineer,"['linux', 'kubernetes', 'ci/cd', 'bash', 'docker', 'terraform']",28.29,6
+Frontend Engineer,"['javascript', 'html', 'git', 'css', 'react', 'node.js', 'typescript']",23.83,5
+Frontend Engineer,"['html', 'react', 'typescript', 'redux']",23.11,6
+Product Manager,"['roadmap', 'agile', 'analytics', 'communication']",34.3,3
+Full Stack Developer,"['git', 'python', 'aws', 'react', 'node.js', 'sql']",23.15,3
+Machine Learning Engineer,"['scikit-learn', 'pytorch', 'machine learning', 'python', 'tensorflow', 'docker']",33.02,6
+Machine Learning Engineer,"['scikit-learn', 'pytorch', 'machine learning', 'git', 'python', 'aws']",22.99,4
+Data Scientist,"['scikit-learn', 'statistics', 'numpy', 'jupyter', 'visualization', 'sql']",20.14,1
+DevOps Engineer,"['linux', 'ci/cd', 'bash', 'docker', 'terraform']",27.99,3
+DevOps Engineer,"['kubernetes', 'aws', 'bash', 'ci/cd', 'docker', 'terraform']",25.81,8
+Backend Engineer,"['redis', 'python', 'aws', 'django', 'docker', 'sql']",20.97,6
+Frontend Engineer,"['javascript', 'html', 'git', 'redux', 'react', 'typescript']",24.47,5
+Full Stack Developer,"['communication', 'git', 'mongo', 'python', 'aws', 'sql']",22.76,7
+Machine Learning Engineer,"['pytorch', 'machine learning', 'python', 'aws', 'tensorflow', 'analytics']",15.17,1
+Data Scientist,"['statistics', 'python', 'numpy', 'visualization', 'sql']",13.47,3
+Full Stack Developer,"['git', 'mongo', 'aws', 'node.js', 'sql']",12.13,3
+Data Scientist,"['pandas', 'statistics', 'python', 'jupyter', 'visualization', 'sql']",24.18,6
+Data Scientist,"['pandas', 'numpy', 'jupyter', 'visualization', 'sql']",28.46,5
+Backend Engineer,"['fastapi', 'redis', 'aws', 'docker', 'sql']",19.3,6
+Full Stack Developer,"['git', 'python', 'aws', 'node.js', 'sql']",21.52,1
+Machine Learning Engineer,"['scikit-learn', 'pytorch', 'machine learning', 'tensorflow', 'docker']",26.48,1
+Backend Engineer,"['fastapi', 'redis', 'python', 'aws', 'django', 'sql']",8.05,1
+Frontend Engineer,"['html', 'git', 'css', 'redux', 'react', 'docker', 'typescript']",28.25,7
+Product Manager,"['user research', 'communication', 'roadmap', 'agile', 'analytics']",21.13,5
+DevOps Engineer,"['kubernetes', 'aws', 'ci/cd', 'bash', 'docker', 'linux']",16.82,3
+Frontend Engineer,"['javascript', 'html', 'git', 'css', 'react', 'typescript']",12.86,1
+Backend Engineer,"['fastapi', 'python', 'aws', 'django', 'docker', 'sql']",27.99,8
+Data Scientist,"['pandas', 'python', 'numpy', 'visualization', 'sql']",26.44,2
+Machine Learning Engineer,"['scikit-learn', 'machine learning', 'python', 'aws', 'tensorflow', 'docker']",31.79,4
+Frontend Engineer,"['javascript', 'html', 'git', 'redux', 'react', 'typescript']",16.14,3
+Machine Learning Engineer,"['machine learning', 'scikit-learn', 'aws', 'pytorch']",28.61,6
+DevOps Engineer,"['terraform', 'kubernetes', 'aws', 'bash', 'ci/cd', 'linux']",16.62,3
+DevOps Engineer,"['linux', 'mongo', 'aws', 'bash', 'ci/cd', 'terraform']",27.44,8
+Full Stack Developer,"['python', 'aws', 'react', 'node.js', 'sql']",23.85,7
+Machine Learning Engineer,"['scikit-learn', 'machine learning', 'aws', 'tensorflow', 'docker']",18.06,2
+Machine Learning Engineer,"['scikit-learn', 'machine learning', 'python', 'aws', 'tensorflow', 'docker']",20.53,8
+Backend Engineer,"['javascript', 'redis', 'python', 'aws', 'django', 'docker', 'sql']",21.25,7
+Product Manager,"['user research', 'jira', 'roadmap', 'agile', 'analytics']",16.39,3
+Machine Learning Engineer,"['scikit-learn', 'pytorch', 'python', 'aws', 'tensorflow']",22.79,4
+Machine Learning Engineer,"['pytorch', 'machine learning', 'python', 'aws', 'tensorflow', 'docker']",26.26,4
+Full Stack Developer,"['git', 'mongo', 'python', 'node.js', 'sql']",25.05,5
+Frontend Engineer,"['javascript', 'html', 'css', 'redux', 'react']",22.35,5
+Data Scientist,"['pandas', 'python', 'numpy', 'jupyter', 'sql']",24.46,2
+DevOps Engineer,"['linux', 'aws', 'bash', 'ci/cd', 'docker', 'terraform']",21.32,5
+Machine Learning Engineer,"['scikit-learn', 'pytorch', 'machine learning', 'tensorflow', 'docker']",19.0,3
+Full Stack Developer,"['git', 'mongo', 'aws', 'react', 'sql']",19.45,8
+Full Stack Developer,"['git', 'mongo', 'python', 'react', 'bash', 'sql']",16.84,7
+Frontend Engineer,"['javascript', 'html', 'git', 'css', 'redux', 'typescript']",23.12,8
+Full Stack Developer,"['git', 'mongo', 'python', 'aws', 'node.js']",17.1,5
+Data Scientist,"['pandas', 'python', 'numpy', 'jupyter', 'visualization', 'sql']",23.62,8
+Full Stack Developer,"['pytorch', 'mongo', 'python', 'node.js', 'sql']",34.01,8
+DevOps Engineer,"['kubernetes', 'aws', 'ci/cd', 'bash', 'docker', 'terraform']",17.0,3
+Data Scientist,"['pandas', 'statistics', 'jupyter', 'visualization', 'sql']",22.12,8
+DevOps Engineer,"['redis', 'aws', 'ci/cd', 'bash', 'docker', 'terraform']",21.89,8
+Frontend Engineer,"['javascript', 'html', 'css', 'redux', 'react', 'typescript']",21.8,4
+Backend Engineer,"['fastapi', 'redis', 'python', 'aws', 'docker', 'sql']",26.55,8
+DevOps Engineer,"['kubernetes', 'aws', 'ci/cd', 'docker', 'terraform']",13.86,4
+Frontend Engineer,"['javascript', 'html', 'css', 'redux', 'typescript']",21.7,3
+DevOps Engineer,"['linux', 'aws', 'ci/cd', 'docker', 'terraform']",23.42,4
+Data Scientist,"['pandas', 'statistics', 'python', 'numpy', 'sql']",27.73,5
+Machine Learning Engineer,"['pytorch', 'machine learning', 'python', 'aws', 'tensorflow', 'docker']",21.7,2
+Full Stack Developer,"['terraform', 'git', 'aws', 'react', 'node.js', 'sql']",22.78,1
+Machine Learning Engineer,"['scikit-learn', 'python', 'aws', 'tensorflow', 'docker']",23.68,5
+Machine Learning Engineer,"['scikit-learn', 'machine learning', 'python', 'tensorflow', 'docker']",19.07,5
+Data Scientist,"['pandas', 'python', 'numpy', 'jupyter', 'visualization', 'sql']",14.17,4
+DevOps Engineer,"['terraform', 'aws', 'bash', 'ci/cd', 'docker', 'linux']",32.58,7
+Product Manager,"['user research', 'jira', 'communication', 'analytics', 'roadmap']",16.94,3
+Backend Engineer,"['fastapi', 'redis', 'python', 'aws', 'django', 'docker']",16.95,7
+Frontend Engineer,"['javascript', 'html', 'git', 'css', 'redux', 'react', 'roadmap']",11.87,1
+Full Stack Developer,"['git', 'aws', 'react', 'node.js', 'sql']",23.79,5
+Product Manager,"['analytics', 'user research', 'jira', 'communication']",26.69,2
+Data Scientist,"['statistics', 'python', 'numpy', 'jupyter', 'sql']",25.35,6
+Full Stack Developer,"['mongo', 'python', 'aws', 'react', 'node.js', 'sql']",18.61,1
+Full Stack Developer,"['git', 'aws', 'react', 'node.js', 'sql']",13.33,3
+Product Manager,"['user research', 'jira', 'communication', 'roadmap', 'analytics']",35.86,8
+Frontend Engineer,"['javascript', 'user research', 'html', 'git', 'css', 'react', 'typescript']",16.44,4
+Machine Learning Engineer,"['scikit-learn', 'pytorch', 'python', 'aws', 'tensorflow', 'docker']",21.82,7
+Data Scientist,"['statistics', 'numpy', 'jupyter', 'visualization', 'sql']",15.78,3
+DevOps Engineer,"['kubernetes', 'aws', 'bash', 'docker', 'terraform']",28.93,2
+Full Stack Developer,"['javascript', 'git', 'mongo', 'aws', 'node.js', 'sql']",20.54,2
+Frontend Engineer,"['html', 'git', 'css', 'mongo', 'redux', 'react', 'typescript']",10.85,1
+Backend Engineer,"['user research', 'redis', 'python', 'django', 'docker', 'sql']",24.8,8
+Frontend Engineer,"['javascript', 'html', 'css', 'redux', 'react', 'typescript']",22.84,4
+Data Scientist,"['pandas', 'statistics', 'python', 'visualization', 'sql']",21.85,6
+Product Manager,"['user research', 'jira', 'communication', 'roadmap', 'agile']",24.35,2
+Data Scientist,"['pandas', 'statistics', 'python', 'numpy', 'jupyter', 'visualization']",29.62,8
+Full Stack Developer,"['mongo', 'python', 'aws', 'react', 'bash', 'node.js', 'sql']",17.82,4
+Machine Learning Engineer,"['tensorflow', 'python', 'machine learning', 'aws']",17.44,2
+Data Scientist,"['pandas', 'statistics', 'numpy', 'ci/cd', 'jupyter', 'visualization', 'sql']",19.04,1
+Data Scientist,"['pandas', 'statistics', 'numpy', 'jupyter', 'visualization', 'sql']",21.41,8
+Machine Learning Engineer,"['scikit-learn', 'pytorch', 'python', 'aws', 'tensorflow', 'docker']",26.82,2
+Machine Learning Engineer,"['scikit-learn', 'pytorch', 'machine learning', 'python', 'aws', 'docker']",12.79,3
+Product Manager,"['roadmap', 'agile', 'analytics', 'communication']",23.35,3
+Product Manager,"['user research', 'jira', 'communication', 'roadmap', 'analytics', 'agile']",38.86,5
+Full Stack Developer,"['git', 'mongo', 'python', 'aws', 'node.js']",23.47,1
+Machine Learning Engineer,"['pytorch', 'python', 'aws', 'tensorflow', 'docker']",22.18,5
+Backend Engineer,"['sql', 'python', 'django', 'redis']",18.68,3
+Full Stack Developer,"['mongo', 'python', 'aws', 'react', 'node.js']",26.14,3
+DevOps Engineer,"['kubernetes', 'terraform', 'aws', 'docker', 'linux']",8.74,1
+DevOps Engineer,"['kubernetes', 'aws', 'bash', 'docker', 'linux']",32.94,4
+Data Scientist,"['pandas', 'statistics', 'python', 'numpy', 'jupyter', 'sql']",33.02,6
+Product Manager,"['roadmap', 'agile', 'user research', 'communication']",25.1,1
+Machine Learning Engineer,"['scikit-learn', 'machine learning', 'git', 'python', 'aws', 'tensorflow', 'docker']",13.74,2
+Data Scientist,"['pandas', 'statistics', 'python', 'numpy', 'jupyter', 'sql']",22.46,5
+Data Scientist,"['pandas', 'statistics', 'python', 'jupyter', 'visualization']",28.11,5
+Backend Engineer,"['fastapi', 'aws', 'django', 'docker', 'jupyter', 'sql']",18.82,8
+Machine Learning Engineer,"['scikit-learn', 'machine learning', 'python', 'aws', 'docker']",27.75,8
+Backend Engineer,"['redis', 'python', 'aws', 'django', 'linux', 'sql']",21.81,8
+Backend Engineer,"['python', 'aws', 'django', 'docker', 'sql']",12.98,1
+Backend Engineer,"['fastapi', 'python', 'aws', 'django', 'docker', 'sql']",19.97,2
+Frontend Engineer,"['html', 'git', 'react', 'javascript']",10.06,2
+DevOps Engineer,"['user research', 'kubernetes', 'terraform', 'aws', 'ci/cd', 'docker', 'linux']",29.84,5
+Product Manager,"['jira', 'communication', 'analytics', 'agile', 'roadmap']",24.27,5
+Machine Learning Engineer,"['pytorch', 'machine learning', 'python', 'aws', 'tensorflow']",33.69,5
+Frontend Engineer,"['javascript', 'redis', 'html', 'git', 'css', 'typescript']",15.95,3
+Machine Learning Engineer,"['scikit-learn', 'pytorch', 'machine learning', 'python', 'tensorflow']",20.24,7
+DevOps Engineer,"['fastapi', 'aws', 'bash', 'ci/cd', 'docker', 'linux']",25.47,1
+Product Manager,"['user research', 'jira', 'communication', 'roadmap', 'agile', 'sql']",32.81,2
+DevOps Engineer,"['kubernetes', 'terraform', 'aws', 'docker', 'linux']",34.44,8
+DevOps Engineer,"['kubernetes', 'aws', 'bash', 'ci/cd', 'docker', 'linux']",32.9,7
+Product Manager,"['agile', 'user research', 'jira', 'communication']",27.16,2
+Frontend Engineer,"['javascript', 'html', 'git', 'css', 'redux', 'typescript']",15.92,6
+Frontend Engineer,"['javascript', 'html', 'css', 'react', 'django', 'typescript']",19.31,4
+Machine Learning Engineer,"['scikit-learn', 'pytorch', 'python', 'aws', 'docker']",27.51,5
+Full Stack Developer,"['git', 'python', 'react', 'node.js', 'sql']",28.99,7
+Frontend Engineer,"['html', 'git', 'css', 'redux', 'react', 'typescript']",20.3,8
+Frontend Engineer,"['javascript', 'git', 'css', 'redux', 'react']",17.55,2
+Data Scientist,"['pandas', 'statistics', 'python', 'numpy', 'jupyter', 'visualization']",22.57,5
+Product Manager,"['roadmap', 'analytics', 'jira', 'communication']",17.66,1
+Backend Engineer,"['redis', 'python', 'aws', 'django', 'docker', 'sql']",25.23,8
+Frontend Engineer,"['javascript', 'html', 'git', 'css', 'redux', 'react']",27.97,8
+DevOps Engineer,"['terraform', 'aws', 'bash', 'ci/cd', 'docker', 'linux']",33.55,7
+Full Stack Developer,"['git', 'aws', 'react', 'node.js', 'sql']",27.75,3
+Machine Learning Engineer,"['scikit-learn', 'machine learning', 'python', 'tensorflow', 'docker']",25.6,1
+DevOps Engineer,"['terraform', 'kubernetes', 'bash', 'ci/cd', 'linux']",31.48,5
+DevOps Engineer,"['linux', 'kubernetes', 'aws', 'ci/cd', 'docker', 'terraform']",28.19,7
+Backend Engineer,"['fastapi', 'redis', 'python', 'aws', 'django', 'docker']",21.3,5
+Machine Learning Engineer,"['scikit-learn', 'machine learning', 'python', 'aws', 'tensorflow', 'docker']",31.99,8
+Full Stack Developer,"['git', 'mongo', 'python', 'aws', 'react', 'node.js']",13.28,2
+Backend Engineer,"['fastapi', 'redis', 'aws', 'django', 'docker']",27.18,4
+Data Scientist,"['statistics', 'python', 'numpy', 'jupyter', 'sql']",29.14,6
+DevOps Engineer,"['kubernetes', 'aws', 'ci/cd', 'bash', 'docker', 'linux']",21.57,7
+Full Stack Developer,"['git', 'mongo', 'python', 'react', 'node.js', 'sql']",25.11,7
+Product Manager,"['jira', 'communication', 'roadmap', 'agile', 'analytics']",21.46,4
+Backend Engineer,"['fastapi', 'redis', 'kubernetes', 'python', 'aws', 'django', 'sql']",22.59,5
+Data Scientist,"['statistics', 'python', 'numpy', 'jupyter', 'visualization', 'sql']",29.38,3
+Data Scientist,"['pandas', 'python', 'jupyter', 'visualization', 'sql']",14.69,5
+Machine Learning Engineer,"['scikit-learn', 'pytorch', 'python', 'aws', 'docker']",17.25,5
+Full Stack Developer,"['git', 'mongo', 'python', 'react', 'node.js', 'sql']",32.37,6
+DevOps Engineer,"['kubernetes', 'terraform', 'bash', 'ci/cd', 'docker', 'linux']",23.77,2
+Frontend Engineer,"['html', 'git', 'css', 'redux', 'typescript']",23.51,5
+DevOps Engineer,"['kubernetes', 'terraform', 'tensorflow', 'ci/cd', 'docker', 'linux']",20.75,6
+Frontend Engineer,"['javascript', 'html', 'git', 'css', 'typescript']",23.12,6
+Frontend Engineer,"['javascript', 'git', 'css', 'redux', 'typescript']",23.72,4
+Backend Engineer,"['fastapi', 'redis', 'python', 'aws', 'django', 'docker']",15.74,6
+Backend Engineer,"['fastapi', 'python', 'aws', 'docker', 'sql']",24.26,4
+Full Stack Developer,"['git', 'python', 'aws', 'react', 'sql']",16.77,4
+Full Stack Developer,"['react', 'sql', 'node.js', 'aws']",25.61,8
+DevOps Engineer,"['kubernetes', 'terraform', 'aws', 'ci/cd', 'bash', 'linux']",33.73,5
+Full Stack Developer,"['git', 'mongo', 'aws', 'node.js', 'sql']",12.21,3
+Full Stack Developer,"['git', 'mongo', 'python', 'aws', 'react', 'node.js']",12.55,2
+Data Scientist,"['statistics', 'python', 'numpy', 'jupyter', 'visualization', 'linux']",26.98,6
+Backend Engineer,"['fastapi', 'python', 'aws', 'django', 'docker']",20.94,4
+Frontend Engineer,"['javascript', 'html', 'git', 'statistics', 'redux', 'react', 'typescript']",14.05,2
+Product Manager,"['user research', 'jira', 'roadmap', 'agile', 'analytics']",35.8,2
+Product Manager,"['user research', 'scikit-learn', 'jira', 'communication', 'analytics', 'roadmap']",31.4,5
+Machine Learning Engineer,"['scikit-learn', 'pytorch', 'python', 'aws', 'docker']",21.43,6
+Backend Engineer,"['fastapi', 'redis', 'django', 'docker', 'sql']",12.2,1
+Data Scientist,"['statistics', 'python', 'sql', 'pandas']",23.65,8
+Full Stack Developer,"['git', 'mongo', 'python', 'react', 'node.js']",33.07,7
+Backend Engineer,"['fastapi', 'redis', 'python', 'aws', 'django', 'docker']",10.66,3
+Data Scientist,"['pandas', 'statistics', 'python', 'numpy', 'jupyter', 'visualization']",21.13,4
+Frontend Engineer,"['javascript', 'git', 'css', 'react', 'typescript']",19.1,4
+Machine Learning Engineer,"['scikit-learn', 'pytorch', 'machine learning', 'tensorflow', 'docker']",30.42,1
+Product Manager,"['user research', 'jira', 'communication', 'mongo', 'analytics']",34.2,5
+DevOps Engineer,"['linux', 'aws', 'ci/cd', 'docker', 'terraform']",26.99,6
+Data Scientist,"['statistics', 'python', 'react', 'numpy', 'jupyter', 'visualization', 'sql']",29.1,8
+Full Stack Developer,"['mongo', 'python', 'aws', 'node.js', 'sql']",33.83,7
+Data Scientist,"['statistics', 'python', 'numpy', 'jupyter', 'visualization']",23.29,3
+Frontend Engineer,"['html', 'git', 'css', 'aws', 'redux', 'react', 'typescript']",17.37,4
+Backend Engineer,"['fastapi', 'redis', 'python', 'aws', 'sql']",10.44,1
+Machine Learning Engineer,"['scikit-learn', 'pytorch', 'machine learning', 'python', 'aws', 'tensorflow']",24.9,6
+Frontend Engineer,"['javascript', 'html', 'css', 'redux', 'react', 'node.js']",16.21,3
+Frontend Engineer,"['javascript', 'html', 'git', 'css', 'react', 'bash']",17.1,8
+DevOps Engineer,"['terraform', 'kubernetes', 'bash', 'ci/cd', 'docker', 'linux', 'typescript']",35.14,6
+Backend Engineer,"['fastapi', 'redis', 'python', 'django', 'docker', 'sql']",27.17,7
+Frontend Engineer,"['javascript', 'html', 'git', 'redux', 'react', 'typescript']",23.92,8
+Backend Engineer,"['fastapi', 'python', 'aws', 'django', 'docker', 'sql']",21.05,6
+Frontend Engineer,"['kubernetes', 'git', 'css', 'redux', 'react', 'typescript']",16.2,3
+Product Manager,"['user research', 'jira', 'communication', 'analytics', 'agile']",34.91,7
+DevOps Engineer,"['linux', 'aws', 'bash', 'ci/cd', 'docker', 'terraform']",21.26,2
+DevOps Engineer,"['linux', 'aws', 'bash', 'ci/cd', 'docker', 'terraform']",26.94,3
+DevOps Engineer,"['linux', 'aws', 'bash', 'ci/cd', 'terraform']",23.82,5
+Data Scientist,"['pandas', 'statistics', 'python', 'numpy', 'sql']",26.6,5
+Frontend Engineer,"['javascript', 'git', 'css', 'react', 'typescript']",14.48,2
+DevOps Engineer,"['kubernetes', 'aws', 'ci/cd', 'bash', 'docker', 'terraform']",16.6,3
+Product Manager,"['user research', 'jira', 'communication', 'analytics', 'agile']",29.46,2
+Backend Engineer,"['fastapi', 'redis', 'python', 'aws', 'django', 'docker']",21.72,6
+Full Stack Developer,"['git', 'mongo', 'python', 'react', 'sql']",25.89,8
+Product Manager,"['user research', 'jira', 'communication', 'roadmap', 'analytics']",31.44,4
+DevOps Engineer,"['linux', 'ci/cd', 'bash', 'docker', 'terraform']",23.63,3
+Backend Engineer,"['fastapi', 'redis', 'aws', 'django', 'docker', 'sql']",20.71,1
+Machine Learning Engineer,"['pytorch', 'machine learning', 'python', 'tensorflow', 'docker']",14.58,2
+Frontend Engineer,"['javascript', 'git', 'redux', 'react', 'typescript']",21.61,4
+Machine Learning Engineer,"['scikit-learn', 'pytorch', 'machine learning', 'python', 'aws', 'docker']",16.56,1
+DevOps Engineer,"['terraform', 'kubernetes', 'aws', 'bash', 'ci/cd', 'linux']",19.89,3
+Backend Engineer,"['fastapi', 'redis', 'python', 'aws', 'django', 'docker']",25.56,5
+Backend Engineer,"['fastapi', 'python', 'aws', 'django', 'docker', 'sql']",16.26,1
+Backend Engineer,"['fastapi', 'redis', 'machine learning', 'aws', 'django', 'sql']",11.06,1
+Product Manager,"['analytics', 'agile', 'user research', 'roadmap']",19.98,4
