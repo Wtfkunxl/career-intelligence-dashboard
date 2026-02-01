@@ -98,3 +98,7 @@ career_intelligence/
 │
 ├── requirements.txt
 └── README.md
+
+
+Live demo 
+https://wtfkunxl-career-intelligence-dash-career-intelligenceapp-1u5ssh.streamlit.app/
